@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "firstName": "Susan",
+      "lastName": "Schneider",
+      "contact": "Quisquam asperiores ",
+      "address": "Sequi fugiat volupt",
+      "dropdown": "USA",
+      "gender": "male",
+      "hobbies": [
+        "dancing",
+        "cooking",
+        "travelling"
+      ],
+      "image": "",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
